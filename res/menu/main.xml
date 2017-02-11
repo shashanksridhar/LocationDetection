@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.tk.mapoi.MainActivity" >
+
+    <item
+        android:id="@+id/action_today"
+        android:icon="@drawable/ic_menu_today"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_settings"/>
+    <item
+        android:id="@+id/action_datepicker"
+        android:icon="@drawable/ic_menu_datepicker"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_settings"/>
+
+</menu>

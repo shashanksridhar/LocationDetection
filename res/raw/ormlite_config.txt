@@ -1,0 +1,52 @@
+#
+# generated on 2014/11/15 05:02:41
+#
+# --table-start--
+dataClass=com.tk.mapoi.database.LocationDB
+tableName=locationdb
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=Latitude
+# --field-end--
+# --field-start--
+fieldName=Longitude
+# --field-end--
+# --field-start--
+fieldName=Timestamp
+# --field-end--
+# --field-start--
+fieldName=ClockG
+# --field-end--
+# --table-fields-end--
+# --table-end--
+
+# --table-start--
+dataClass=com.tk.mapoi.database.ClusterInfoDB
+tableName=clusterinfodb
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=Latitude
+# --field-end--
+# --field-start--
+fieldName=Longitude
+# --field-end--
+# --field-start--
+fieldName=Timestamp
+# --field-end--
+# --field-start--
+fieldName=ClockG
+# --field-end--
+# --field-start--
+fieldName=clusterId
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################

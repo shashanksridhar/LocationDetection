@@ -1,0 +1,21 @@
+﻿ABOUT MAPoI:
+
+Detects Points Of Interest(POI) of a user on daily basis. Location is fetched every minute. Clustering is done every 10 minutes. GPS can be used if wanted by the user. Although the application can work without GPS being turned on. However, connection to WiFi is necessary for clustering places.
+
+CURRENT DAY POIs :
+
+MAPoI displays current day's POI. On clicking the “Green calendar” icon,the application displays current day's cluster.
+
+PREVIOUS DAY POIs :
+
+On clicking the “Red calendar” icon, the application displays POIs for the date selected. 
+
+BACKGROUND SERVICE ON/OFF :
+
+Go to the Service Settings in Left Panel to switch the background service on/off.
+
+Developed By Team SNAPS:
+Shashank, Nandita, Ankit, Pooja, Shreyas
+
+Contact us:
+Send your queries by mail to tkplacesense@gmail.com

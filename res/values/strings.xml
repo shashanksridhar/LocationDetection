@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MAPoI</string>
+    <string name="action_settings">Settings</string>
+    <string name="BackgroundService">Background Service</string>
+    <string name="About">About MAPoI:</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <string-array name="nav_drawer_items">
+        <item>MAPoI</item>
+        <item>Service Settings</item>
+        <item>Info</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_menu_map</item>
+        <item>@drawable/ic_menu_settings</item>
+        <item>@drawable/ic_menu_info</item>
+    </array>
+
+    <string name="desc_list_item_icon">Item Icon</string>
+
+</resources>
